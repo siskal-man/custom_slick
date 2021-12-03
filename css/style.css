@@ -1,0 +1,79 @@
+*,*::before, *::after{
+    padding: 0;
+    margin: 0;
+    border: 0;
+    box-sizing: border-box;
+}
+
+html, body{
+    height: 100%;
+    background-color: #333;
+    font-family: Arial, "Helvetica-Neue", Helvetica, sans-serif;
+    color: #fff;
+    font-size: 25px;
+}
+
+.wrapper{
+    height: 100%;
+    padding: 50px;
+}
+
+/* Слайдер */
+.slick-slider{
+
+}
+
+.slick-list{
+    overflow: hidden;
+}
+
+.slick-track{
+    display: flex;
+}
+
+/* Слайд */
+.slick-slide{
+
+}
+
+.slick-slide.slick-active{
+
+}
+
+.slick-slide.slick-current{
+
+}
+
+.slick-slide.slick-center{
+
+}
+
+/* Стрелки */
+.slick-arrow{
+
+}
+
+.slick-arrow.slick-prev{
+
+}
+
+.slick-arrow.slick-next{
+
+}
+
+.slick-arrow.slick-disabled{
+
+}
+
+/* Точки */
+.slick-dots{
+
+}
+
+.slick-dots li{
+
+}
+
+.slick-dots button{
+
+}
